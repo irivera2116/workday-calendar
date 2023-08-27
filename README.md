@@ -2,6 +2,10 @@
 
 A simple application used to schedule your day.
 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 ## User Story
 
 ```md
@@ -27,3 +31,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+## Preview of Application
+
+## Link to Site
+
+[Work Day Scheduler](https://irivera2116.github.io/workday-calendar/)
