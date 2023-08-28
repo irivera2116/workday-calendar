@@ -33,6 +33,7 @@ THEN the saved events persist
 ```
 ## Preview of Application
 
+![img of working app](assets/Assignment%205.png)
 ## Link to Site
 
 [Work Day Scheduler](https://irivera2116.github.io/workday-calendar/)
